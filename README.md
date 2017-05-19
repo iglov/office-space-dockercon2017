@@ -36,3 +36,7 @@ Transactions are simulated through the TransactionGenerator python app.
 Architecture
 ---------------
 ![Architecture Diagram](architecture.png)
+
+From/For
+---------------
+[Docker for Devs](https://youtu.be/y9IYnEDSVEc)
